@@ -8,5 +8,5 @@ assignees: ''
 ---
 
 <!--
-Zde prosím vložte text vaší připomínky, stížnosti, návrhu na zlepšení
+Zde prosím vložte text vaší připomínky, návrhu na zlepšení
 -->
