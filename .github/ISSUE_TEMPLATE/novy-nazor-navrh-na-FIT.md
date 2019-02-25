@@ -1,5 +1,5 @@
 ---
-name: Nový názor/návrh
+name: Nový názor/návrh na FIT obecně
 about: Chcete se podělit o názor na naši fakultu!
 title: ''
 labels: ''
