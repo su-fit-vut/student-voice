@@ -4,7 +4,7 @@ Repozitář pro anonymní sběr názorů na VUT FIT.
 
 ## O repozitáři
 
-Tento repozitář byl založen abyste vy, studenti [Fakulty Informačních technologii VUT v Brně](https://www.fit.vutbr.cz/.cs), měli možnost sdělit nám své nápady a názory. I vy máte svůj hlas a můžete nám pomoct vylepšit fakultu, ať už z pohledu výuky, prostředí a nebo společenského vyžití.
+Tento repozitář byl založen abyste vy, studenti [Fakulty informačních technologii VUT v Brně](https://www.fit.vutbr.cz/.cs), měli možnost sdělit nám své nápady a názory. I vy máte svůj hlas a můžete nám pomoct vylepšit fakultu, ať už z pohledu výuky, prostředí a nebo společenského vyžití.
 
 ## Jak na to?
 
@@ -17,7 +17,7 @@ Následně budou témata diskutována s vedením fakulty.
 
 ## O nás
 
-Repozitář spravuje [Studentská Unie Fakulty Informačních Technologii VUT v Brně](http://www.su.fit.vutbr.cz/). Jsme skupina studentů, kteří ve volném čase usilují o to, aby se studenti na fakultě měli co nejlépe. Pokud tě napadá jak tento repozitář vylepšit, využij tohoto odkazu [issue](https://github.com/su-fit-vut/student-voice/issues/new/choose), nebo nebo nás kontaktuj na [discordu](https://discord.gg/hDujegE) nebo [facebooku](https://www.facebook.com/SUFITVUT/).
+Repozitář spravuje [Studentská unie FIT VUT v Brně](http://www.su.fit.vutbr.cz/). Jsme skupina studentů, kteří ve volném čase usilují o to, aby se studenti na fakultě měli co nejlépe. Pokud tě napadá jak tento repozitář vylepšit, využij tohoto odkazu [issue](https://github.com/su-fit-vut/student-voice/issues/new/choose), nebo nebo nás kontaktuj na [discordu](https://discord.gg/hDujegE) nebo [facebooku](https://www.facebook.com/SUFITVUT/).
 
 ## A to je vše?
 
