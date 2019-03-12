@@ -1,14 +1,16 @@
 # student-voice/Hlas studentů
 
-Repozitář pro anonymní sběr názorů na VUT FIT.
+Repozitář pro sběr názorů a návrhů od akademické obce FIT VUT.
 
 ## O repozitáři
 
 Tento repozitář byl založen abyste vy, studenti [Fakulty informačních technologii VUT v Brně](https://www.fit.vutbr.cz/.cs), měli možnost sdělit nám své nápady a názory. I vy máte svůj hlas a můžete nám pomoct vylepšit fakultu, ať už z pohledu výuky, prostředí a nebo společenského vyžití.
+Díky tomu , že platforma je nezávislá na univerzitních identitách, můžete vystupovat pseudonymně dle libosti. Nutnost registrovat na GitHubu nás však zároveň chrání před nejhrubším náporem spamu a trollů.
 
 ## Jak na to?
 
 Stačí přidat nový [Issue](https://github.com/su-fit-vut/student-voice/issues/new/choose) nebo u aktuálních témat ohodnotit palcem nahoru/dolů jestli s nápadem/názorem souhlasíte. Máte také možnost poskytnout podrobnější názor či kritiku pomocí komentářů.
+Vyhrazujeme si právo mazat zjevný spam.
 
 ## K čemu to bude?
 
