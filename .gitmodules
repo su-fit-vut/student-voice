@@ -1,0 +1,4 @@
+[submodule "rubbergod"]
+	path = rubbergod
+	url = https://github.com/toaster192/rubbergod
+	branch = master
